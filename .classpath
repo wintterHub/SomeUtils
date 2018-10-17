@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.28-bin.jar"/>
+	<classpathentry kind="lib" path="lib/SqlUtil.jar" sourcepath="C:/Users/acer/Desktop/SqlUtil.src.jar"/>
+	<classpathentry kind="lib" path="lib/DBUtil.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.16.jar" sourcepath="D:/java/.m2/repo/org/apache/poi/poi/3.16/poi-3.16-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="jave-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jspeex-0.9.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
